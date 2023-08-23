@@ -1,0 +1,2 @@
+import rerand
+rerand.menu()
