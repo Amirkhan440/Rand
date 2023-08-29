@@ -1,2 +1,2 @@
-import rerand
-rerand.menu()
+import rrand
+rrand.menu()
